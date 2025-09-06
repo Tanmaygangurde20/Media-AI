@@ -1,0 +1,11 @@
+Django>=4.2.0
+djangorestframework>=3.14.0
+pillow>=10.0.0
+huggingface-hub>=0.16.0
+transformers>=4.30.0
+torch>=2.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+django-cors-headers>=4.0.0
+gunicorn
+
